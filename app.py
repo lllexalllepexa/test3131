@@ -18,10 +18,7 @@ SCRIPT_DIR = Path(__file__).parent.absolute()
 class AppConfig:
     DB_PATH: str = str(SCRIPT_DIR / "chroma_db")
     COLLECTION_NAME: str = "anime_transcripts"
-    
-    MODEL_NAME: str = "paraphrase-multilingual-MiniLM-L12-v2"
-    # -----------------------
-    
+    MODEL_NAME: str = "all-MiniLM-L6-v2"
     SUBS_FOLDER_NAME: str = "aot_subs"
     BATCH_SIZE: int = 2000 
 
@@ -33,7 +30,7 @@ logger = logging.getLogger(__name__)
 class SubtitleProcessor:
     @staticmethod
     def clean_text(text: str) -> str:
-        text = re.sub(r'[^\w\s\.\!\?а-яА-ЯёЁ]', ' ', text)
+        text = re.sub(r'[^\w\s\.\!\?]', ' ', text)
         text = re.sub(r'\s+', ' ', text).strip()
         return text.lower()
 
@@ -58,15 +55,11 @@ class SubtitleProcessor:
     @staticmethod
     def parse_file_path(file_path: Path) -> List[Dict[str, Any]]:
         try:
-            subs = pysrt.open(str(file_path), encoding='utf-8')
+            subs = pysrt.open(str(file_path))
             return SubtitleProcessor._process_subs_object(subs, file_path.stem)
         except Exception as e:
-            try:
-                subs = pysrt.open(str(file_path), encoding='cp1251')
-                return SubtitleProcessor._process_subs_object(subs, file_path.stem)
-            except:
-                logger.error(f"Error parsing file {file_path}: {e}")
-                return []
+            logger.error(f"Error parsing file {file_path}: {e}")
+            return []
 
     @staticmethod
     def parse_uploaded_file(uploaded_file) -> List[Dict[str, Any]]:
@@ -237,13 +230,16 @@ def main():
     if service.get_stats() == 0:
         st.warning("👈 База пуста. Выберите источник слева и нажмите кнопку Индексации.")
     else:
-        q = st.text_input("Запрос (можно на русском)", placeholder="О чем говорят герои?", label_visibility="collapsed")
+        q = st.text_input("Запрос", placeholder="О чем говорят герои?", label_visibility="collapsed")
         
+        # --- ИЗМЕНЕНИЕ ЗДЕСЬ ---
+        # Вместо st.slider используем st.selectbox
         limit = st.selectbox(
             "Количество результатов", 
-            options=range(1, 100),
-            index=4
+            options=range(1, 100),  # Список чисел от 1 до 99
+            index=4 # Выбираем 5-й элемент списка (это число 5) по умолчанию
         )
+        # ------------------------
         
         if q:
             with st.spinner("Поиск..."):
