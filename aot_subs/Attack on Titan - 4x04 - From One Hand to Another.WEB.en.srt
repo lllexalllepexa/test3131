@@ -1,0 +1,1821 @@
+1
+00:00:01,380 --> 00:00:05,829
+Falco. Where are you
+headed this late?
+
+2
+00:00:05,913 --> 00:00:07,429
+Left something at HQ,
+
+3
+00:00:07,513 --> 00:00:10,429
+so I'm running back there
+to grab it real quick.
+
+4
+00:00:10,513 --> 00:00:11,644
+See you later!
+
+5
+00:00:17,646 --> 00:00:20,696
+Falco, could you do me a favor?
+
+6
+00:00:20,780 --> 00:00:22,744
+Sure. What do you need?
+
+7
+00:00:23,713 --> 00:00:26,429
+I want to send a letter, but
+
+8
+00:00:26,513 --> 00:00:28,429
+coming from the internment zone,
+
+9
+00:00:28,513 --> 00:00:30,029
+it'll probably be checked, right?
+
+10
+00:00:30,113 --> 00:00:31,629
+Yeah, probably.
+
+11
+00:00:31,713 --> 00:00:32,829
+If they see what I wrote,
+
+12
+00:00:32,913 --> 00:00:34,763
+they'll know I shouldn't be here.
+
+13
+00:00:34,847 --> 00:00:35,897
+Would you be willing to send it
+
+14
+00:00:35,981 --> 00:00:37,829
+from outside the internment zone?
+
+15
+00:00:37,913 --> 00:00:41,629
+Sure thing. Guess this
+is to your family?
+
+16
+00:00:41,713 --> 00:00:44,563
+Yeah. Just letting
+them know that I'm here
+
+17
+00:00:44,647 --> 00:00:46,577
+and that I'm all right.
+
+18
+00:02:31,087 --> 00:02:34,669
+Hm? Hey. Why all the commotion?
+
+19
+00:02:34,753 --> 00:02:36,269
+The Tybur family just arrived.
+
+20
+00:02:36,353 --> 00:02:37,669
+Looks like all of them.
+
+21
+00:02:37,753 --> 00:02:39,517
+Excuse me?
+
+22
+00:02:43,686 --> 00:02:45,269
+They're the Tyburs' personal guard.
+
+23
+00:02:45,352 --> 00:02:46,936
+It's an independent force.
+
+24
+00:02:47,020 --> 00:02:48,019
+I hear they're good.
+
+25
+00:02:49,287 --> 00:02:50,669
+Please come in.
+
+26
+00:02:50,753 --> 00:02:53,084
+Sorry to drop in unannounced.
+
+27
+00:02:54,221 --> 00:02:57,803
+I'm Willy. Head of
+the Tyburs. It's a pleasure.
+
+28
+00:02:57,887 --> 00:03:01,003
+I lead Marley's Warrior Unit.
+Commander Theo Magath.
+
+29
+00:03:01,087 --> 00:03:04,602
+It is an honor to make your
+acquaintance, Lord Tybur.
+
+30
+00:03:04,686 --> 00:03:06,869
+The feeling's mutual, Commander Magath.
+
+31
+00:03:06,953 --> 00:03:10,069
+Now then. Allow me to introduce
+you to my beloved family.
+
+32
+00:03:10,153 --> 00:03:12,069
+I told you to stay still!
+
+33
+00:03:12,153 --> 00:03:13,683
+Let him go!
+
+34
+00:03:15,753 --> 00:03:17,869
+Now look what you've done!
+
+35
+00:03:17,953 --> 00:03:20,269
+You've overseen the
+Warrior unit quite successfully,
+
+36
+00:03:20,352 --> 00:03:22,736
+Commander, so I'm curious.
+
+37
+00:03:22,820 --> 00:03:25,869
+Can you tell which of us
+is the War Hammer Titan?
+
+38
+00:03:25,953 --> 00:03:28,669
+No, sir. I've seen
+no sign at all.
+
+39
+00:03:28,753 --> 00:03:29,803
+Frankly, I'm not even sure if
+
+40
+00:03:29,887 --> 00:03:31,736
+the War Hammer came here with you.
+
+41
+00:03:31,820 --> 00:03:36,602
+You have an
+astute mind. As I'd heard.
+
+42
+00:03:36,686 --> 00:03:38,936
+But no. It is here.
+
+43
+00:03:39,020 --> 00:03:42,450
+Someone among us wields the War Hammer.
+
+44
+00:03:48,286 --> 00:03:52,269
+I came here to lay eyes
+on the statue of Helos.
+
+45
+00:03:52,352 --> 00:03:54,669
+It captures the moment, a century ago,
+
+46
+00:03:54,753 --> 00:03:58,270
+when a mere human struck down
+the Devil of All Earth,
+
+47
+00:03:58,353 --> 00:04:01,018
+saving the world and becoming a hero.
+
+48
+00:04:02,221 --> 00:04:04,069
+What a grand sight.
+
+49
+00:04:04,153 --> 00:04:07,803
+He stands brave and beautiful.
+Not a scratch on him.
+
+50
+00:04:07,887 --> 00:04:11,003
+Truly. This is
+the spirit of Marley.
+
+51
+00:04:11,087 --> 00:04:12,869
+Yes, I agree with you.
+
+52
+00:04:12,953 --> 00:04:15,203
+Especially since the
+statue's completely hollow.
+
+53
+00:04:15,286 --> 00:04:19,937
+You're an unsparing critic, Commander.
+
+54
+00:04:20,021 --> 00:04:21,803
+I'm told that you've been
+working to reinstate
+
+55
+00:04:21,887 --> 00:04:24,203
+conscription among Marleyan citizens.
+
+56
+00:04:24,286 --> 00:04:25,268
+To the people of Marley,
+
+57
+00:04:25,352 --> 00:04:29,269
+war exists only in the
+pages of their newspapers.
+
+58
+00:04:29,353 --> 00:04:32,069
+They read words saying
+that the border's expanded,
+
+59
+00:04:32,153 --> 00:04:33,603
+and they feel pride.
+
+60
+00:04:33,687 --> 00:04:35,003
+If it's our tamed devils,
+
+61
+00:04:35,087 --> 00:04:37,003
+or conscripts from conquered nations
+
+62
+00:04:37,087 --> 00:04:40,203
+that bleed for those lands,
+so much the better.
+
+63
+00:04:40,286 --> 00:04:43,203
+I suppose the hope is that
+by forcing Marleyan citizens
+
+64
+00:04:43,286 --> 00:04:45,269
+to risk their own necks in the trenches,
+
+65
+00:04:45,353 --> 00:04:47,803
+then we can eventually
+put a halt to this nation's
+
+66
+00:04:47,887 --> 00:04:50,551
+self-destructive march toward war.
+
+67
+00:04:53,887 --> 00:04:55,603
+But if I had the ear of the man
+
+68
+00:04:55,687 --> 00:04:58,003
+controlling Marley from the shadows,
+
+69
+00:04:58,087 --> 00:05:00,669
+I would tell him it's too late.
+
+70
+00:05:00,753 --> 00:05:04,869
+You truly don't hold back, do you?
+
+71
+00:05:04,953 --> 00:05:06,603
+What am I to say?
+
+72
+00:05:06,687 --> 00:05:07,869
+As you just noted,
+
+73
+00:05:07,953 --> 00:05:11,003
+Marley is under the
+Tybur family's influence.
+
+74
+00:05:11,087 --> 00:05:14,869
+But we did not set Marley
+on this path of militarism.
+
+75
+00:05:14,953 --> 00:05:17,202
+The nation chose that for itself.
+
+76
+00:05:17,286 --> 00:05:19,937
+Long ago, we Tyburs gave Marley freedom
+
+77
+00:05:20,021 --> 00:05:22,803
+and power by way of atonement.
+
+78
+00:05:22,887 --> 00:05:25,137
+We chose to stand by and watch
+
+79
+00:05:25,220 --> 00:05:28,217
+as this country plunged
+itself into darkness.
+
+80
+00:05:29,887 --> 00:05:32,202
+We intend to reveal
+everything to the world
+
+81
+00:05:32,286 --> 00:05:34,869
+during the main event of the festival.
+
+82
+00:05:34,953 --> 00:05:38,603
+When I said I'd come to see
+the hero's statue, I meant it.
+
+83
+00:05:38,687 --> 00:05:40,851
+Marley needs a new Helos.
+
+84
+00:05:42,087 --> 00:05:43,937
+Theo Magath.
+
+85
+00:05:44,021 --> 00:05:47,151
+I ask you to take my hand
+and work at my side.
+
+86
+00:05:57,353 --> 00:05:58,937
+Good morning, Pock!
+
+87
+00:05:59,021 --> 00:06:03,536
+Hey, Pieck.
+Why are you down there?
+
+88
+00:06:03,620 --> 00:06:06,069
+I guess this just feels
+more natural to me.
+
+89
+00:06:06,152 --> 00:06:08,050
+Sorry if I scared you.
+
+90
+00:06:08,753 --> 00:06:11,617
+Would'ja please just walk normal?
+
+91
+00:06:12,220 --> 00:06:14,003
+Most Titans come from the south,
+
+92
+00:06:14,087 --> 00:06:17,069
+so Paradis' defenses are heaviest there,
+
+93
+00:06:17,152 --> 00:06:19,803
+and comparatively sparse
+towards the northern mountains.
+
+94
+00:06:19,887 --> 00:06:22,269
+I see. So we should
+attack from the north.
+
+95
+00:06:22,353 --> 00:06:24,536
+It's worth considering at least.
+
+96
+00:06:24,620 --> 00:06:27,869
+However, we need to land a great
+many troops and supplies,
+
+97
+00:06:27,953 --> 00:06:30,003
+and for our largest ships to dock,
+
+98
+00:06:30,087 --> 00:06:32,069
+we'll need control of
+that southern wharf.
+
+99
+00:06:32,152 --> 00:06:34,069
+Then we should come from the south.
+
+100
+00:06:34,152 --> 00:06:35,803
+Not necessarily.
+
+101
+00:06:35,887 --> 00:06:37,269
+We'd be sailing straight to the spot
+
+102
+00:06:37,353 --> 00:06:39,069
+where we lost our scout ships.
+
+103
+00:06:39,152 --> 00:06:40,803
+Its where the enemy's focused.
+
+104
+00:06:40,887 --> 00:06:42,669
+They might've even torn the wharf down.
+
+105
+00:06:42,753 --> 00:06:45,269
+All right. Then what are
+you trying to say?
+
+106
+00:06:45,353 --> 00:06:47,269
+I was just sharing
+information that I thought
+
+107
+00:06:47,353 --> 00:06:49,069
+you might find useful, sir.
+
+108
+00:06:49,152 --> 00:06:51,202
+Well, I think you've shared quite enough.
+
+109
+00:06:51,286 --> 00:06:54,584
+I don't know why we let an
+Eldian talk in the first place.
+
+110
+00:06:59,152 --> 00:07:02,069
+The Paradis plan
+seems to be coming right along.
+
+111
+00:07:02,152 --> 00:07:06,069
+The brass in charge is oh so intelligent.
+
+112
+00:07:06,152 --> 00:07:08,803
+I sure am excited to hear
+what they come up with.
+
+113
+00:07:08,887 --> 00:07:10,536
+Like entrusting the whole operation
+
+114
+00:07:10,620 --> 00:07:12,717
+to four children with no support?
+
+115
+00:07:15,353 --> 00:07:16,517
+Hm?
+
+116
+00:07:20,887 --> 00:07:24,451
+He's winning.
+Falco just passed Gabi.
+
+117
+00:07:28,021 --> 00:07:31,603
+Heh. Look how they
+celebrate that one win.
+
+118
+00:07:31,687 --> 00:07:34,869
+Dumb kids. Ignorance
+really is bliss.
+
+119
+00:07:34,953 --> 00:07:36,869
+But it doesn't matter how well Falco does
+
+120
+00:07:36,953 --> 00:07:38,269
+from this point, does it?
+
+121
+00:07:38,353 --> 00:07:40,750
+I mean Gabi's so far ahead of him.
+
+122
+00:07:41,487 --> 00:07:44,003
+Did you see how he
+took off at the last stretch?
+
+123
+00:07:44,086 --> 00:07:46,803
+Hey there, kids.
+What's all the fuss about?
+
+124
+00:07:46,887 --> 00:07:49,269
+Falco finally got the best of Gabi!
+
+125
+00:07:49,353 --> 00:07:51,603
+Really? He beat her grades?
+
+126
+00:07:51,687 --> 00:07:53,669
+No. He just
+outran her in a race.
+
+127
+00:07:53,753 --> 00:07:56,068
+Sure, but it's still a historic feat!
+
+128
+00:07:56,152 --> 00:07:59,536
+Hey. Can you cut it out?
+Seriously, it's embarrassing.
+
+129
+00:07:59,620 --> 00:08:01,068
+Pretty impressive!
+
+130
+00:08:01,152 --> 00:08:03,884
+It sounds like maybe you're
+gonna be the next Armor!
+
+131
+00:08:05,753 --> 00:08:07,669
+There's no point in
+trying to beat me now,
+
+132
+00:08:07,753 --> 00:08:09,003
+it's too little too late!
+
+133
+00:08:09,086 --> 00:08:11,003
+In case you forgot, I heroically defended
+
+134
+00:08:11,086 --> 00:08:12,984
+our motherland in battle!
+
+135
+00:08:13,953 --> 00:08:17,669
+Yeah, I know, but there's still a chance.
+
+136
+00:08:17,753 --> 00:08:20,269
+They haven't announced
+a successor quite yet,
+
+137
+00:08:20,353 --> 00:08:23,984
+and until they do,
+I'll keep on working my hardest.
+
+138
+00:08:25,953 --> 00:08:29,603
+All right. Said like
+a professional Warrior.
+
+139
+00:08:29,687 --> 00:08:31,068
+Your brother's inheriting the Beast,
+
+140
+00:08:31,152 --> 00:08:32,202
+so you and your family'll be made
+
+141
+00:08:32,286 --> 00:08:34,803
+Honorary Marleyans no matter what you do!
+
+142
+00:08:34,887 --> 00:08:37,718
+You know that, so why try so hard?
+
+143
+00:08:42,620 --> 00:08:44,869
+I'm doing this for you!
+
+144
+00:08:44,953 --> 00:08:46,069
+Falco...
+
+145
+00:08:46,153 --> 00:08:48,184
+He really just up and said it!
+
+146
+00:08:51,753 --> 00:08:54,937
+Huh?! You're trying to stop me
+from getting what I want
+
+147
+00:08:55,020 --> 00:08:57,069
+but you think you're doing it for me?
+
+148
+00:08:57,153 --> 00:08:59,869
+That doesn't make any damn sense!
+
+149
+00:08:59,953 --> 00:09:02,269
+He couldn't get through to her.
+
+150
+00:09:02,353 --> 00:09:04,869
+Huh? What's that jerk's problem?
+
+151
+00:09:04,953 --> 00:09:07,136
+Hey! Tell me!
+
+152
+00:09:07,220 --> 00:09:08,737
+Well if it isn't our brave young
+
+153
+00:09:08,821 --> 00:09:10,869
+Warriors-in-training.
+
+154
+00:09:10,953 --> 00:09:14,136
+Gabi!
+I heard what you did, Gabi!
+
+155
+00:09:14,220 --> 00:09:17,136
+You're a hero to all
+us Eldians, you know that?
+
+156
+00:09:17,220 --> 00:09:18,937
+Thanks for your service!
+
+157
+00:09:19,020 --> 00:09:21,136
+Sorry, but I'm just Zofia.
+
+158
+00:09:21,220 --> 00:09:22,669
+Huh?
+
+159
+00:09:22,753 --> 00:09:23,869
+Stop that, you stupid lush!
+
+160
+00:09:23,952 --> 00:09:26,202
+Between the day-drinking and
+the grabbing onto random girls,
+
+161
+00:09:26,286 --> 00:09:28,269
+I've had it up to here with you!
+
+162
+00:09:28,353 --> 00:09:30,603
+Shut up, you nosy old bat!
+
+163
+00:09:30,687 --> 00:09:32,669
+Ain't nothing wrong with
+givin' a hero due praise!
+
+164
+00:09:32,753 --> 00:09:33,869
+There wouldn't be, except getting praised
+
+165
+00:09:33,952 --> 00:09:36,002
+by someone like you is bad luck!
+
+166
+00:09:36,086 --> 00:09:39,017
+Now go! Drag yourself home
+to your poor mother!
+
+167
+00:09:40,887 --> 00:09:44,002
+Now. Allow me to give
+you kids a nice treat.
+
+168
+00:09:44,086 --> 00:09:45,203
+Eat up, okay?
+
+169
+00:09:45,287 --> 00:09:48,803
+I want you to get big and
+strong like Vice Chief Braun!
+
+170
+00:09:48,887 --> 00:09:50,484
+Thank you so much!
+
+171
+00:09:53,753 --> 00:09:57,269
+Whoa. Are they
+really gonna declare war
+
+172
+00:09:57,353 --> 00:09:59,669
+from here in the internment zone?
+
+173
+00:09:59,753 --> 00:10:01,818
+Looks like they're building a stage.
+
+174
+00:10:02,621 --> 00:10:04,203
+They say leaders are gonna come from
+
+175
+00:10:04,287 --> 00:10:08,002
+all over the world, and by
+the time this festival is over,
+
+176
+00:10:08,086 --> 00:10:10,936
+they're all gonna be on our side.
+
+177
+00:10:11,020 --> 00:10:12,284
+Fantastic!
+
+178
+00:10:13,286 --> 00:10:14,803
+Sounds like all of Marley's problems
+
+179
+00:10:14,887 --> 00:10:17,002
+are about to magically disappear!
+
+180
+00:10:17,086 --> 00:10:19,203
+You really don't think it'll work?
+
+181
+00:10:19,287 --> 00:10:21,136
+Do you really think it will?
+
+182
+00:10:21,220 --> 00:10:23,737
+We've been at war with
+too many of these countries.
+
+183
+00:10:23,821 --> 00:10:26,002
+They want Marley to fall.
+
+184
+00:10:26,086 --> 00:10:27,803
+We aren't treated well here,
+
+185
+00:10:27,886 --> 00:10:30,669
+but compared to the hatred
+that Eldians face abroad,
+
+186
+00:10:30,753 --> 00:10:32,217
+we're actually lucky.
+
+187
+00:10:32,886 --> 00:10:35,737
+My family came from
+a foreign internment zone.
+
+188
+00:10:35,821 --> 00:10:37,002
+It was awful.
+
+189
+00:10:37,086 --> 00:10:41,002
+Well. That's all the more reason
+why we have to do something.
+
+190
+00:10:41,086 --> 00:10:43,269
+They chose to meet
+at the internment zone.
+
+191
+00:10:43,353 --> 00:10:45,803
+Maybe they wanna help
+people understand us.
+
+192
+00:10:45,886 --> 00:10:48,803
+This is our chance to show the
+world that we aren't devils.
+
+193
+00:10:48,886 --> 00:10:50,002
+Okay, but how?
+
+194
+00:10:50,086 --> 00:10:53,202
+Smile! I know how
+badly you wanna be right,
+
+195
+00:10:53,286 --> 00:10:55,202
+but right now, you can't be.
+
+196
+00:10:55,286 --> 00:10:57,603
+Help prove yourself wrong
+or we're all screwed.
+
+197
+00:10:57,687 --> 00:10:58,868
+You shape up, too.
+
+198
+00:10:58,952 --> 00:11:01,002
+Stop pretending to be a weirdo, Zofia.
+
+199
+00:11:01,086 --> 00:11:03,669
+Um. This is just who I am.
+
+200
+00:11:03,753 --> 00:11:06,737
+Fine. So what
+are you gonna fix?
+
+201
+00:11:06,821 --> 00:11:11,002
+Huh? There's nothing for
+me to fix, I'm perfect.
+
+202
+00:11:11,086 --> 00:11:13,203
+I'm sharp as a needle
+and cute as a button.
+
+203
+00:11:13,287 --> 00:11:15,868
+And when I captivate all the VIPs,
+
+204
+00:11:15,952 --> 00:11:18,803
+my spot's gonna be that much more secure.
+
+205
+00:11:18,886 --> 00:11:21,203
+Are you sure you're not a devil?
+
+206
+00:11:21,287 --> 00:11:24,537
+And if you two ever cheer
+for Falco over me again,
+
+207
+00:11:24,621 --> 00:11:25,603
+I will make you cry.
+
+208
+00:11:25,687 --> 00:11:28,002
+Oh, she's definitely a devil.
+
+209
+00:11:28,086 --> 00:11:31,737
+It's Commander Magath.
+
+210
+00:11:31,820 --> 00:11:32,884
+Here.
+
+211
+00:11:37,153 --> 00:11:39,669
+Hmm. Is such a large-scale
+
+212
+00:11:39,753 --> 00:11:41,803
+demolition necessary?
+
+213
+00:11:41,886 --> 00:11:44,817
+Much of the structure has
+decayed beyond repair.
+
+214
+00:11:48,287 --> 00:11:50,203
+Allow me to congratulate you.
+
+215
+00:11:50,287 --> 00:11:52,603
+The army is now yours, General.
+
+216
+00:11:52,687 --> 00:11:55,669
+No, sir. It belongs
+to the nation.
+
+217
+00:11:55,753 --> 00:11:57,869
+And Marley is a nation commanded
+
+218
+00:11:57,953 --> 00:12:00,002
+by none other than you, Lord Tybur.
+
+219
+00:12:00,086 --> 00:12:03,269
+Hm. This nation
+isn't mine, though.
+
+220
+00:12:03,353 --> 00:12:06,203
+It belongs to the people:
+Marleyan and Eldian.
+
+221
+00:12:06,287 --> 00:12:08,002
+Now that I have the wheel,
+
+222
+00:12:08,086 --> 00:12:11,669
+I can see why no one's
+tried to turn it before.
+
+223
+00:12:11,753 --> 00:12:13,151
+It's too heavy.
+
+224
+00:12:14,753 --> 00:12:16,802
+I want nothing more than to let it go,
+
+225
+00:12:16,886 --> 00:12:20,050
+but the time has come when I must not.
+
+226
+00:12:21,687 --> 00:12:23,869
+It just happened to be me.
+
+227
+00:12:23,953 --> 00:12:28,603
+By sheer chance, I happened to
+be the man that fate turned to.
+
+228
+00:12:28,687 --> 00:12:30,869
+The house was on the verge of collapse,
+
+229
+00:12:30,953 --> 00:12:34,269
+but a few of its pillars remain usable.
+
+230
+00:12:34,353 --> 00:12:39,117
+And according to them, the house
+is already infested with rats.
+
+231
+00:12:41,621 --> 00:12:43,203
+Nicely done, Falco.
+
+232
+00:12:43,287 --> 00:12:45,936
+It's thanks to what
+you said, Mr. Kruger!
+
+233
+00:12:46,020 --> 00:12:48,203
+Honestly, I doubt I'll catch up to Gabi,
+
+234
+00:12:48,287 --> 00:12:50,869
+no matter how hard I push myself.
+
+235
+00:12:50,953 --> 00:12:54,069
+But even so, I'm gonna
+keep moving forward.
+
+236
+00:12:54,153 --> 00:12:56,203
+I see.
+
+237
+00:12:56,287 --> 00:12:59,269
+I would still say that
+I'm in your debt though.
+
+238
+00:12:59,353 --> 00:13:03,269
+Thank you for delivering
+those letters for me.
+
+239
+00:13:03,353 --> 00:13:04,802
+You've been a big help.
+
+240
+00:13:04,886 --> 00:13:07,117
+Huh? Oh, sure.
+
+241
+00:13:08,820 --> 00:13:12,002
+That glove. Did your
+family send it to you?
+
+242
+00:13:12,086 --> 00:13:15,802
+They thought it would make
+hospital life less boring.
+
+243
+00:13:15,886 --> 00:13:19,203
+It's hard to do much in this shape, but
+
+244
+00:13:19,287 --> 00:13:21,936
+I need to move forward, too.
+
+245
+00:13:22,020 --> 00:13:25,784
+After the festival,
+I'm going back to my hometown.
+
+246
+00:13:27,087 --> 00:13:29,269
+Glad to hear it.
+
+247
+00:13:29,353 --> 00:13:32,003
+A doctor's coming.
+
+248
+00:13:32,087 --> 00:13:33,869
+Well. I should head out.
+
+249
+00:13:33,953 --> 00:13:34,950
+Yeah.
+
+250
+00:13:37,220 --> 00:13:39,802
+Would you mind if I sit next to you?
+
+251
+00:13:39,886 --> 00:13:41,618
+Sure. Why not?
+
+252
+00:13:42,487 --> 00:13:44,817
+Thanks, I appreciate it.
+
+253
+00:13:47,287 --> 00:13:50,136
+My name's Jaeger. I'm an
+Internment Zone physician.
+
+254
+00:13:50,220 --> 00:13:54,003
+I like to come out here and
+drink tea from time to time.
+
+255
+00:13:54,087 --> 00:13:57,670
+Good to meet you. I'm Kruger.
+
+256
+00:13:57,753 --> 00:13:59,269
+Good to meet you, too.
+
+257
+00:13:59,353 --> 00:14:03,603
+I saw you speaking with a boy
+just now. Is he a friend?
+
+258
+00:14:03,686 --> 00:14:04,869
+Guess so.
+
+259
+00:14:04,953 --> 00:14:08,802
+Hmm. I wonder
+if he could've been my friend.
+
+260
+00:14:08,886 --> 00:14:12,817
+After all, I too sit here,
+looking for someone to talk to.
+
+261
+00:14:13,886 --> 00:14:16,269
+Before the Eldian
+Restorationists were caught,
+
+262
+00:14:16,353 --> 00:14:19,069
+that boy's uncle was a leading member.
+
+263
+00:14:19,153 --> 00:14:21,069
+Marley sends captured restorationists
+
+264
+00:14:21,153 --> 00:14:22,002
+straight to paradise,
+
+265
+00:14:22,086 --> 00:14:24,869
+frequently with their family's in tow.
+
+266
+00:14:24,953 --> 00:14:26,669
+In order to protect their loved ones,
+
+267
+00:14:26,753 --> 00:14:30,002
+the boy and his brother said
+they wanted to become Warriors.
+
+268
+00:14:30,086 --> 00:14:32,069
+And now, his brother has been chosen
+
+269
+00:14:32,153 --> 00:14:34,069
+to inherit the Beast Titan.
+
+270
+00:14:34,153 --> 00:14:38,084
+Which means the Grice family
+is finally safe again.
+
+271
+00:14:39,287 --> 00:14:43,003
+Hold on. Why tell me all this?
+
+272
+00:14:43,087 --> 00:14:45,003
+So that you'll stop asking that young man
+
+273
+00:14:45,087 --> 00:14:47,003
+to run errands for you.
+
+274
+00:14:47,087 --> 00:14:49,736
+The Grice family's efforts
+will have been for nothing
+
+275
+00:14:49,820 --> 00:14:52,802
+if people begin to suspect
+him of something illicit.
+
+276
+00:14:52,886 --> 00:14:55,802
+And if your heart and mind
+truly are healthy,
+
+277
+00:14:55,886 --> 00:14:58,736
+you should go back to your family now.
+
+278
+00:14:58,820 --> 00:15:01,203
+The people you love
+won't always be waiting.
+
+279
+00:15:01,287 --> 00:15:04,984
+If you take them for granted,
+you will be left with regret.
+
+280
+00:15:06,287 --> 00:15:08,717
+Will I? I see.
+
+281
+00:15:12,087 --> 00:15:15,350
+You have regrets about your own family?
+
+282
+00:15:17,753 --> 00:15:20,537
+I'm filled with them. Even now.
+
+283
+00:15:20,620 --> 00:15:22,269
+I was so hard on my son.
+
+284
+00:15:22,353 --> 00:15:25,069
+So insistent that he become a doctor.
+
+285
+00:15:25,153 --> 00:15:28,537
+That's why he took his sister
+outside the walls.
+
+286
+00:15:28,620 --> 00:15:30,269
+That's why she...
+
+287
+00:15:30,353 --> 00:15:31,403
+She...
+
+288
+00:15:31,487 --> 00:15:36,550
+It's
+my fault. It's all my fault!
+
+289
+00:15:41,820 --> 00:15:43,269
+Mr. Jaeger!
+
+290
+00:15:43,353 --> 00:15:45,802
+Please don't go outside unsupervised!
+
+291
+00:15:45,886 --> 00:15:49,084
+Sorry about this. I only
+looked away for a moment.
+
+292
+00:15:50,087 --> 00:15:52,269
+Come along, Mr. Jaeger.
+
+293
+00:15:52,353 --> 00:15:54,817
+Everything will be all right.
+
+294
+00:16:13,785 --> 00:16:14,701
+This is crazy.
+
+295
+00:16:14,785 --> 00:16:17,100
+I've seen these people in the papers.
+
+296
+00:16:17,184 --> 00:16:19,167
+Enough idle chitchat.
+
+297
+00:16:19,251 --> 00:16:21,767
+We're gonna serve these people
+so well that their heads spin.
+
+298
+00:16:21,851 --> 00:16:23,767
+Look, they're starting
+to leave dirty dishes.
+
+299
+00:16:23,851 --> 00:16:24,982
+Get 'em!
+
+300
+00:16:28,184 --> 00:16:29,301
+Yes.
+
+301
+00:16:29,385 --> 00:16:31,182
+I've always felt that way.
+
+302
+00:16:33,518 --> 00:16:34,567
+Falco, drink!
+
+303
+00:16:34,651 --> 00:16:35,483
+Here!
+
+304
+00:16:37,651 --> 00:16:42,567
+Huh? Look. They're letting some
+filthy-blood carry our plates.
+
+305
+00:16:42,651 --> 00:16:46,549
+Ugh. No wonder
+the food here reeks.
+
+306
+00:16:50,518 --> 00:16:52,501
+I-I'm terribly sorry, ma'am!
+
+307
+00:16:52,585 --> 00:16:54,767
+Shh! Don't make a scene of it.
+
+308
+00:16:54,851 --> 00:16:57,634
+But the wine.
+It stained your outfit.
+
+309
+00:16:57,718 --> 00:17:01,167
+My lady. Is everything
+all right?
+
+310
+00:17:01,251 --> 00:17:04,434
+This is quite embarrassing,
+but I spilled wine on my kimono
+
+311
+00:17:04,518 --> 00:17:07,367
+and was just asking
+this boy for assistance.
+
+312
+00:17:07,451 --> 00:17:08,367
+Thank you, young man.
+
+313
+00:17:08,451 --> 00:17:10,367
+I'm so sorry to hear that.
+
+314
+00:17:10,451 --> 00:17:12,034
+Please come right this way.
+
+315
+00:17:12,118 --> 00:17:14,167
+Wh-Why would you...?
+
+316
+00:17:14,251 --> 00:17:15,701
+There's no telling what
+they would've done to you
+
+317
+00:17:15,785 --> 00:17:17,649
+if I'd been honest, right?
+
+318
+00:17:18,719 --> 00:17:20,501
+Are you okay?
+
+319
+00:17:20,585 --> 00:17:23,767
+Yeah. She saved me.
+
+320
+00:17:23,851 --> 00:17:26,501
+Even though she knew that I'm an Eldian.
+
+321
+00:17:26,585 --> 00:17:28,634
+I think I know why.
+
+322
+00:17:28,718 --> 00:17:32,282
+That woman's probably
+an Easterner from Hizuru.
+
+323
+00:17:36,384 --> 00:17:38,082
+It's Willy Tybur!
+
+324
+00:17:39,318 --> 00:17:40,701
+Willy!
+
+325
+00:17:40,785 --> 00:17:43,167
+If it isn't the heir of our saviors!
+
+326
+00:17:43,251 --> 00:17:46,367
+Ambassador Ogweno!
+Long time no see!
+
+327
+00:17:46,451 --> 00:17:49,567
+And Nambia! It's been
+since we were children.
+
+328
+00:17:49,651 --> 00:17:52,701
+Yes. Sorry for
+all the times I made you cry.
+
+329
+00:17:52,785 --> 00:17:55,034
+I wonder if you remember this, Willy.
+
+330
+00:17:55,118 --> 00:17:58,315
+Oh! Of course, from when
+you fell out of that tree!
+
+331
+00:18:03,719 --> 00:18:06,034
+Let me bid you a warm welcome
+
+332
+00:18:06,118 --> 00:18:09,434
+and offer my thanks to
+you all for traveling so far.
+
+333
+00:18:09,518 --> 00:18:12,367
+Until very recently,
+some of us were engaged
+
+334
+00:18:12,451 --> 00:18:16,301
+in a rather unseemly
+dispute over resources.
+
+335
+00:18:16,385 --> 00:18:19,948
+However, yesterday's enemy
+is today's enemy!
+
+336
+00:18:20,785 --> 00:18:21,767
+Pardon.
+
+337
+00:18:21,851 --> 00:18:24,635
+I mean yesterday's enemy
+is today's friend!
+
+338
+00:18:24,719 --> 00:18:26,367
+Let us wash the past down the toilet
+
+339
+00:18:26,451 --> 00:18:29,167
+alongside our drinks tonight!
+
+340
+00:18:29,251 --> 00:18:30,767
+Toward that end,
+please raise your glasses
+
+341
+00:18:30,851 --> 00:18:32,701
+and join me for a toast!
+
+342
+00:18:32,785 --> 00:18:35,716
+Cheers! To everlasting peace!
+
+343
+00:18:37,651 --> 00:18:40,034
+Such a refined joke!
+
+344
+00:18:40,118 --> 00:18:42,100
+It's unfortunate that
+this isn't a first language
+
+345
+00:18:42,184 --> 00:18:43,767
+for all our guests.
+
+346
+00:18:43,851 --> 00:18:45,501
+You weren't quite understood.
+
+347
+00:18:45,585 --> 00:18:47,701
+So please, allow me
+to take over from here.
+
+348
+00:18:47,785 --> 00:18:50,034
+Thanks for breaking the ice, Ambassador.
+
+349
+00:18:50,118 --> 00:18:51,434
+All right, Willy!
+
+350
+00:18:51,518 --> 00:18:53,515
+Kin of our saviors!
+
+351
+00:18:57,318 --> 00:18:59,701
+You've been invited to join me tomorrow,
+
+352
+00:18:59,785 --> 00:19:02,100
+in the Liberio Internment Zone.
+
+353
+00:19:02,184 --> 00:19:06,181
+It is home to a people whose
+blood runs through my own veins.
+
+354
+00:19:07,118 --> 00:19:10,167
+These people are known
+to be descendants of devils,
+
+355
+00:19:10,251 --> 00:19:14,034
+for their ancestors
+massacred untold millions.
+
+356
+00:19:14,118 --> 00:19:17,301
+And strangely, after enduring
+the worst of their cruelty,
+
+357
+00:19:17,385 --> 00:19:20,367
+Marley used those devils
+to oppress other nations,
+
+358
+00:19:20,451 --> 00:19:23,234
+repeating the horrors of the past.
+
+359
+00:19:23,318 --> 00:19:27,434
+Would the world not be better
+if Titans ceased to exist?
+
+360
+00:19:27,518 --> 00:19:30,767
+There is but one answer
+to the Eldian question.
+
+361
+00:19:30,850 --> 00:19:34,034
+After years of searching, I've found it.
+
+362
+00:19:34,118 --> 00:19:36,100
+And tomorrow night, I'll share it
+
+363
+00:19:36,184 --> 00:19:38,767
+in the course of my first-ever
+theatrical production.
+
+364
+00:19:38,850 --> 00:19:41,501
+I hope that each of you will be there.
+
+365
+00:19:41,585 --> 00:19:45,367
+Now. To the playwrights
+and the witnesses of history!
+
+366
+00:19:45,451 --> 00:19:48,682
+To the playwrights
+and the witnesses of history!
+
+367
+00:20:02,850 --> 00:20:04,448
+What the hell?
+
+368
+00:20:16,451 --> 00:20:18,167
+What is all this?
+
+369
+00:20:18,251 --> 00:20:19,367
+Gabi!
+
+370
+00:20:19,451 --> 00:20:20,367
+About time you woke up!
+
+371
+00:20:20,451 --> 00:20:22,167
+Why is everything all crazy?
+
+372
+00:20:22,251 --> 00:20:23,501
+It's for the festival!
+
+373
+00:20:23,585 --> 00:20:24,701
+Different people have been pouring in
+
+374
+00:20:24,784 --> 00:20:26,367
+from outside all morning,
+
+375
+00:20:26,451 --> 00:20:28,101
+and they opened up
+a bunch of food stalls!
+
+376
+00:20:28,185 --> 00:20:29,615
+Here, try this!
+
+377
+00:20:30,518 --> 00:20:32,567
+It's the best thing I've ever tasted!
+
+378
+00:20:32,651 --> 00:20:34,149
+Let's go!
+
+379
+00:21:01,385 --> 00:21:04,101
+Ugh. It hurts!
+
+380
+00:21:04,185 --> 00:21:07,435
+That's what you get for being a glutton.
+
+381
+00:21:07,519 --> 00:21:09,167
+Look at the flags they put up!
+
+382
+00:21:09,251 --> 00:21:12,167
+They should just
+make every day a festival.
+
+383
+00:21:12,251 --> 00:21:13,367
+Think so, huh?
+
+384
+00:21:13,451 --> 00:21:16,100
+It probably  nothing, but I've
+noticed a lot of new things
+
+385
+00:21:16,184 --> 00:21:18,367
+have been happening in the last few days.
+
+386
+00:21:18,451 --> 00:21:20,234
+Is that right?
+
+387
+00:21:20,318 --> 00:21:21,701
+It feels strange.
+
+388
+00:21:21,784 --> 00:21:25,567
+As if the world is about to
+change in a big way.
+
+389
+00:21:25,651 --> 00:21:28,182
+Yeah. I hear you.
+
+390
+00:22:33,846 --> 00:22:36,562
+Hey. How've you
+enjoyed the festival?
+
+391
+00:22:36,646 --> 00:22:38,695
+Wait. Where's Falco?
+
+392
+00:22:38,779 --> 00:22:41,430
+Oh. He said he saw someone
+he knew in the crowd
+
+393
+00:22:41,514 --> 00:22:42,762
+and ran off to say hi.
+
+394
+00:22:42,846 --> 00:22:45,496
+Huh. Hope this doesn't
+make him late.
+
+395
+00:22:45,580 --> 00:22:47,362
+Man. You really can't loosen up
+
+396
+00:22:47,446 --> 00:22:49,162
+without booze, can you?
+
+397
+00:22:49,246 --> 00:22:50,562
+Look at all these people.
+
+398
+00:22:50,646 --> 00:22:52,762
+Look there. I guess
+he made it back.
+
+399
+00:22:52,846 --> 00:22:55,296
+Mr. Braun!
+
+400
+00:22:55,380 --> 00:22:57,029
+Where the hell have you been?
+
+401
+00:22:57,113 --> 00:22:59,562
+Sir. Do you mind coming with me?
+
+402
+00:22:59,646 --> 00:23:00,762
+Don't think there's time.
+
+403
+00:23:00,846 --> 00:23:02,362
+Ah, you'll be fine.
+
+404
+00:23:02,446 --> 00:23:05,562
+The curtains won't go up
+for a few more minutes.
+
+405
+00:23:05,645 --> 00:23:07,296
+Over this way!
+
+406
+00:23:07,380 --> 00:23:09,362
+What's this about, Falco?
+
+407
+00:23:09,446 --> 00:23:11,477
+You can see for yourself in a second.
+
+408
+00:23:15,645 --> 00:23:17,762
+It's through this door!
+
+409
+00:23:17,846 --> 00:23:19,210
+okay...
+
+410
+00:23:22,779 --> 00:23:24,477
+I got him to come!
+
+411
+00:23:26,246 --> 00:23:31,977
+Evening. It's been
+four years... Reiner.
+
+412
+00:23:35,846 --> 00:23:37,144
+Eren!
+
+413
+00:23:40,580 --> 00:23:44,496
+Reiner faces Eren in
+the gloom of a lamplit cellar.
+
+414
+00:23:44,580 --> 00:23:47,762
+As Willy Tybur sweeps
+his audience to their feet,
+
+415
+00:23:47,846 --> 00:23:49,362
+Eren confesses.
+
+416
+00:23:49,446 --> 00:23:52,029
+He and Reiner are the same.
+
+417
+00:23:52,113 --> 00:23:55,144
+Next episode:
+"Declaration of War."
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

@@ -1,0 +1,1456 @@
+1
+00:00:37,457 --> 00:00:40,127
+<font face="Noto Sans SemBd" size="55">{\an20}Is that Captain Levi?
+
+2
+00:00:40,207 --> 00:00:42,877
+<font face="Noto Sans SemBd" size="55">{\an20}I don't know what happened,
+but we're lucky it did.
+
+3
+00:00:42,957 --> 00:00:46,257
+<font face="Noto Sans SemBd" size="55">{\an20}The biggest threat we faced
+is lying in a bloody heap.
+
+4
+00:00:46,337 --> 00:00:48,467
+<font face="Noto Sans SemBd" size="55">{\an20}We should put one
+in his head, just in case.
+
+5
+00:00:48,547 --> 00:00:50,047
+<font face="Noto Sans SemBd" size="55">{\an20}There's no need.
+
+6
+00:00:50,137 --> 00:00:53,387
+<font face="Noto Sans SemBd" size="55">{\an20}He was caught in a Thunder Spear
+explosion at point-blank range.
+
+7
+00:00:53,467 --> 00:00:55,347
+<font face="Noto Sans SemBd" size="55">{\an20}It shredded his guts.
+
+8
+00:00:55,427 --> 00:00:58,437
+<font face="Noto Sans SemBd" size="55">{\an20}Killed him instantly,
+from what I can tell.
+
+9
+00:01:00,687 --> 00:01:02,477
+<font face="Noto Sans SemBd" size="55">{\an20}Then give him to me.
+
+10
+00:01:04,687 --> 00:01:08,647
+<font face="Noto Sans SemBd" size="55">{\an20}I wanna check his pulse
+for myself, so hand him over.
+
+11
+00:01:12,197 --> 00:01:13,657
+<font face="Noto Sans SemBd" size="55">{\an20}[JAEGERIST 76B]
+Floch!
+
+12
+00:01:18,207 --> 00:01:20,787
+<font face="Noto Sans SemBd" size="55">{\an20}What's happening to it?
+Did it just die?
+
+13
+00:01:20,877 --> 00:01:22,377
+<font face="Noto Sans SemBd" size="55">{\an20}That's not it.
+
+14
+00:01:22,457 --> 00:01:24,877
+<font face="Noto Sans SemBd" size="55">{\an20}Their bodies don't suck in steam
+like that when they disappear.
+
+15
+00:02:26,727 --> 00:02:27,477
+<font face="Noto Sans SemBd" size="55">{\an20}[splash]
+
+16
+00:02:27,567 --> 00:02:29,317
+<font face="Noto Sans SemBd" size="55">{\an20}[Gasps] They're escaping!
+
+17
+00:02:29,397 --> 00:02:31,147
+<font face="Noto Sans SemBd" size="55">{\an20}[JAEGERIST 76B]
+Shit!
+
+18
+00:02:31,237 --> 00:02:32,197
+<font face="Noto Sans SemBd" size="55">{\an20}[JAEGERIST 76C]
+After them!
+
+19
+00:02:32,277 --> 00:02:33,857
+<font face="Noto Sans SemBd" size="55">{\an20}[JAEGERIST 76B]
+They can't get away!
+
+20
+00:02:35,527 --> 00:02:39,327
+<font face="Noto Sans SemBd" size="55">{\an20}Zeke. How did you
+end up inside that Titan?
+
+21
+00:02:40,247 --> 00:02:41,917
+<font face="Noto Sans SemBd" size="55">{\an20}[ZEKE]
+Couldn't tell you.
+
+22
+00:02:45,497 --> 00:02:48,297
+<font face="Noto Sans SemBd" size="55">{\an20}[ZEKE]
+I saw a girl I didn't know
+
+23
+00:02:48,377 --> 00:02:51,547
+<font face="Noto Sans SemBd" size="55">{\an20}sculpting the earth
+to reform my body.
+
+24
+00:02:52,467 --> 00:02:56,297
+<font face="Noto Sans SemBd" size="55">{\an20}[ZEKE] In that empty place,
+all I could do was watch.
+
+25
+00:02:57,307 --> 00:03:00,477
+<font face="Noto Sans SemBd" size="55">{\an20}[ZEKE] It felt like I had
+been there for years.
+
+26
+00:03:00,557 --> 00:03:04,397
+<font face="Noto Sans SemBd" size="55">{\an20}But also, like it was
+over in an instant.
+
+27
+00:03:04,477 --> 00:03:06,187
+<font face="Noto Sans SemBd" size="55">{\an20}I remember.
+
+28
+00:03:07,227 --> 00:03:09,897
+<font face="Noto Sans SemBd" size="55">{\an20}Staring at the sky.
+
+29
+00:03:09,987 --> 00:03:12,397
+<font face="Noto Sans SemBd" size="55">{\an20}Were those the Paths I saw?
+
+30
+00:03:12,487 --> 00:03:14,487
+<font face="Noto Sans SemBd" size="55">{\an20}Have to ask,
+the Survey Corps had
+
+31
+00:03:14,567 --> 00:03:16,987
+<font face="Noto Sans SemBd" size="55">{\an20}30 scouts guarding
+your location.
+
+32
+00:03:17,067 --> 00:03:20,037
+<font face="Noto Sans SemBd" size="55">{\an20}I'm assuming you turned
+them all into Titans,
+
+33
+00:03:20,117 --> 00:03:22,037
+<font face="Noto Sans SemBd" size="55">{\an20}but where are they now?
+
+34
+00:03:22,117 --> 00:03:25,417
+<font face="Noto Sans SemBd" size=55>{\an20}Gone. That's the long
+and short of it.
+
+35
+00:03:25,497 --> 00:03:28,037
+<font face="Noto Sans SemBd" size=55>{\an20}This means our biggest
+obstacles are dealt with.
+
+36
+00:03:28,127 --> 00:03:30,497
+<font face="Noto Sans SemBd" size=55>{\an20}No one's left to get in our way.
+
+37
+00:03:30,587 --> 00:03:31,917
+<font face="Noto Sans SemBd" size=55>{\an20}Let's go.
+
+38
+00:03:34,677 --> 00:03:38,717
+<font face="Noto Sans SemBd" size=55>{\an20}[ZEKE] All we can do now
+is keep moving forward.
+
+39
+00:03:38,797 --> 00:03:39,887
+<font face="Noto Sans SemBd" size=55>{\an20}Right, Eren?
+
+40
+00:03:39,967 --> 00:03:44,977
+<font face="Noto Sans SemBd" size=55>{\an20}♪ Opening Song ♪
+
+41
+00:05:15,187 --> 00:05:20,197
+<font face="Noto Sans SemBd" size=55>{\an20}[Roars]
+
+42
+00:05:21,367 --> 00:05:22,827
+<font face="Noto Sans SemBd" size=55>{\an20}What the hell?
+
+43
+00:05:23,737 --> 00:05:30,327
+<font face="Noto Sans SemBd" size=55>{\an20}I think it's beginning.
+The Titans have started to move.
+
+44
+00:05:33,707 --> 00:05:36,167
+<font face="Noto Sans SemBd" size=55>{\an20}Is that you, Galliard?
+
+45
+00:05:36,257 --> 00:05:38,667
+<font face="Noto Sans SemBd" size=55>{\an20}Didn't quite get him,
+but it was worth a shot.
+
+46
+00:05:38,757 --> 00:05:41,677
+<font face="Noto Sans SemBd" size=55>{\an20}Wait, Pieck! You're not
+actually a traitor?
+
+47
+00:05:41,757 --> 00:05:45,177
+<font face="Noto Sans SemBd" size=55>{\an20}Gabi! You really thought
+I'd sell out my comrades?
+
+48
+00:05:45,267 --> 00:05:47,727
+<font face="Noto Sans SemBd" size=55>{\an20}Well, you said if we
+kept fighting for Marley,
+
+49
+00:05:47,807 --> 00:05:48,807
+<font face="Noto Sans SemBd" size=55>{\an20}then we'd end up
+getting put down!
+
+50
+00:05:48,887 --> 00:05:50,147
+<font face="Noto Sans SemBd" size=55>{\an20}Look up there.
+
+51
+00:05:53,977 --> 00:05:56,857
+<font face="Noto Sans SemBd" size=55>{\an20}[PIECK]
+I don't trust Marley one bit.
+
+52
+00:05:56,937 --> 00:05:59,237
+<font face="Noto Sans SemBd" size=55>{\an20}Having said that,
+I trust the comrades
+
+53
+00:05:59,317 --> 00:06:01,907
+<font face="Noto Sans SemBd" size=55>{\an20}who've fought at
+my side completely.
+
+54
+00:06:05,027 --> 00:06:06,787
+<font face="Noto Sans SemBd" size=55>{\an20}[MAGATH]
+There's the smoke signal.
+
+55
+00:06:06,867 --> 00:06:08,327
+<font face="Noto Sans SemBd" size=55>{\an20}Pieck and Galliard
+tracked him down
+
+56
+00:06:08,407 --> 00:06:11,167
+<font face="Noto Sans SemBd" size=55>{\an20}and forced him out
+into the open.
+
+57
+00:06:11,247 --> 00:06:13,417
+<font face="Noto Sans SemBd" size=55>{\an20}The Founder is here.
+
+58
+00:06:15,587 --> 00:06:18,207
+<font face="Noto Sans SemBd" size=55>{\an20}Let's pay him back for Liberio.
+
+59
+00:06:18,297 --> 00:06:20,837
+<font face="Noto Sans SemBd" size=55>{\an20}I want that bastard dead!
+
+60
+00:06:36,647 --> 00:06:38,397
+<font face="Noto Sans SemBd" size=55>{\an20}[MARLEYAN SOLDIER 76A]
+Go, go, go!
+
+61
+00:06:45,407 --> 00:06:47,487
+<font face="Noto Sans SemBd" size=55>{\an20}Hey. What now?
+
+62
+00:06:47,577 --> 00:06:50,457
+<font face="Noto Sans SemBd" size=55>{\an20}Hey, Pieck? Wake up, Pieck!
+
+63
+00:06:52,617 --> 00:06:54,627
+<font face="Noto Sans SemBd" size=55>{\an20}Porco!
+
+64
+00:06:57,627 --> 00:06:59,627
+<font face="Noto Sans SemBd" size=55>{\an20}[BOTH scream]
+
+65
+00:06:59,707 --> 00:07:01,377
+<font face="Noto Sans SemBd" size=55>{\an20}[PIECK]
+That hurt!
+
+66
+00:07:07,007 --> 00:07:09,267
+<font face="Noto Sans SemBd" size=55>{\an20}[yells]
+
+67
+00:07:29,237 --> 00:07:31,407
+<font face="Noto Sans SemBd" size=55>{\an20}[EREN] I can't believe Marley
+was desperate enough
+
+68
+00:07:31,497 --> 00:07:33,667
+<font face="Noto Sans SemBd" size=55>{\an20}to try something like this.
+
+69
+00:07:33,747 --> 00:07:35,957
+<font face="Noto Sans SemBd" size=55>{\an20}They're practically
+coming in blind.
+
+70
+00:07:36,037 --> 00:07:38,917
+<font face="Noto Sans SemBd" size=55>{\an20}Why would they put what's left
+of their military at risk?
+
+71
+00:07:38,997 --> 00:07:42,257
+<font face="Noto Sans SemBd" size=55>{\an20}[YELENA]
+Eren! Can you hear me?
+
+72
+00:07:42,337 --> 00:07:44,797
+<font face="Noto Sans SemBd" size=55>{\an20}Abandon your
+Titan body immediately!
+
+73
+00:07:44,887 --> 00:07:46,507
+<font face="Noto Sans SemBd" size=55>{\an20}We need to get you inside.
+
+74
+00:07:46,587 --> 00:07:49,467
+<font face="Noto Sans SemBd" size=55>{\an20}Then you can escape underground
+with the War Hammer's power!
+
+75
+00:07:49,557 --> 00:07:52,267
+<font face="Noto Sans SemBd" size=55>{\an20}You'll be at a disadvantage
+if you fight here!
+
+76
+00:08:02,187 --> 00:08:03,567
+<font face="Noto Sans SemBd" size=55>{\an20}[YELENA]
+Eren!
+
+77
+00:08:19,037 --> 00:08:23,377
+<font face="Noto Sans SemBd" size=55>{\an20}[EREN]
+Let's do this. Reiner.
+
+78
+00:08:27,257 --> 00:08:29,757
+<font face="Noto Sans SemBd" size=55>{\an20}[EREN]
+Of course, you're here.
+
+79
+00:08:29,847 --> 00:08:34,057
+<font face="Noto Sans SemBd" size=55>{\an20}Who else could talk Marley into
+doing something so stupid?
+
+80
+00:08:37,477 --> 00:08:39,607
+<font face="Noto Sans SemBd" size=55>{\an20}[YELENA]
+Mobilize all units!
+
+81
+00:08:41,147 --> 00:08:44,107
+<font face="Noto Sans SemBd" size=55>{\an20}Hurry! Protect Eren!
+
+82
+00:08:46,397 --> 00:08:49,617
+<font face="Noto Sans SemBd" size=55>{\an20}Eren. Why?
+
+83
+00:08:57,417 --> 00:09:02,127
+<font face="Noto Sans SemBd" size=55>{\an20}[Roars]
+
+84
+00:09:04,627 --> 00:09:06,797
+<font face="Noto Sans SemBd" size=55>{\an20}[Roars]
+
+85
+00:09:13,267 --> 00:09:14,347
+<font face="Noto Sans SemBd" size=55>{\an20}[GABI gasps]
+
+86
+00:09:17,267 --> 00:09:20,687
+<font face="Noto Sans SemBd" size=55>{\an20}[GABI]
+Reiner! He really came for us!
+
+87
+00:09:25,397 --> 00:09:27,567
+<font face="Noto Sans SemBd" size=55>{\an20}Pieck! I'm over here!
+
+88
+00:09:39,537 --> 00:09:40,627
+<font face="Noto Sans SemBd" size=55>{\an20}Gabi!
+
+89
+00:09:44,337 --> 00:09:46,207
+<font face="Noto Sans SemBd" size=55>{\an20}[GABI]
+Commander Magath?
+
+90
+00:09:47,257 --> 00:09:48,547
+<font face="Noto Sans SemBd" size=55>{\an20}Dammit all, Braun!
+
+91
+00:09:48,627 --> 00:09:51,087
+<font face="Noto Sans SemBd" size=55>{\an20}Did I order you to
+pursue the enemy?
+
+92
+00:09:51,177 --> 00:09:53,427
+<font face="Noto Sans SemBd" size=55>{\an20}[GABI gasps]
+I'm sorry, sir!
+
+93
+00:09:53,507 --> 00:09:55,007
+<font face="Noto Sans SemBd" size=55>{\an20}What the hell's
+the matter with you?
+
+94
+00:09:55,097 --> 00:09:56,307
+<font face="Noto Sans SemBd" size=55>{\an20}[COLT]
+Gabi!
+
+95
+00:09:57,977 --> 00:09:59,187
+<font face="Noto Sans SemBd" size=55>{\an20}[GABI]
+Colt!
+
+96
+00:09:59,267 --> 00:10:02,147
+<font face="Noto Sans SemBd" size=55>{\an20}Why isn't Falco here?
+Is he safe?
+
+97
+00:10:05,647 --> 00:10:07,277
+<font face="Noto Sans SemBd" size=55>{\an20}[GABI]
+He's alive.
+
+98
+00:10:07,357 --> 00:10:09,947
+<font face="Noto Sans SemBd" size=55>{\an20}He should be in
+that big building.
+
+99
+00:10:10,027 --> 00:10:12,567
+<font face="Noto Sans SemBd" size=55>{\an20}He got some of Zeke's
+spinal fluid in his mouth,
+
+100
+00:10:12,657 --> 00:10:14,027
+<font face="Noto Sans SemBd" size=55>{\an20}so they're keeping
+him locked up.
+
+101
+00:10:14,117 --> 00:10:16,447
+<font face="Noto Sans SemBd" size=55>{\an20}[Gasps] You're
+kidding me, right?
+
+102
+00:10:17,407 --> 00:10:18,997
+<font face="Noto Sans SemBd" size=55>{\an20}[PIECK TITAN] He's being
+detained along with roughly
+
+103
+00:10:19,077 --> 00:10:23,247
+<font face="Noto Sans SemBd" size=55>{\an20}300 local soldiers who also
+drank the spinal fluid.
+
+104
+00:10:23,337 --> 00:10:26,957
+<font face="Noto Sans SemBd" size=55>{\an20}I counted about 500 free
+enemy troops in the area,
+
+105
+00:10:27,047 --> 00:10:29,127
+<font face="Noto Sans SemBd" size=55>{\an20}but I didn't see
+any sign of Zeke.
+
+106
+00:10:29,217 --> 00:10:32,257
+<font face="Noto Sans SemBd" size=55>{\an20}We couldn't wait around
+after what Reiner told us.
+
+107
+00:10:32,337 --> 00:10:35,677
+<font face="Noto Sans SemBd" size=55>{\an20}Is it possible that they could
+activate the Founder's power?
+
+108
+00:10:35,757 --> 00:10:38,307
+<font face="Noto Sans SemBd" size=55>{\an20}[PIECK TITAN] I'm not sure.
+But I know this much.
+
+109
+00:10:38,387 --> 00:10:40,557
+<font face="Noto Sans SemBd" size=55>{\an20}That power is the strongest
+weapon they've got―
+
+110
+00:10:40,637 --> 00:10:42,597
+<font face="Noto Sans SemBd" size=55>{\an20}the ace up their sleeve.
+
+111
+00:10:42,687 --> 00:10:45,397
+<font face="Noto Sans SemBd" size=55>{\an20}There must be some reason
+they haven't played it yet.
+
+112
+00:10:45,477 --> 00:10:48,317
+<font face="Noto Sans SemBd" size=55>{\an20}So I'm guessing that there's
+still something keeping Eren
+
+113
+00:10:48,397 --> 00:10:51,197
+<font face="Noto Sans SemBd" size=55>{\an20}from using the
+Founder's ability.
+
+114
+00:10:51,277 --> 00:10:54,527
+<font face="Noto Sans SemBd" size=55>{\an20}And what's that?
+Some condition he hasn't met?
+
+115
+00:10:54,617 --> 00:10:55,827
+<font face="Noto Sans SemBd" size=55>{\an20}[GABI gasps]
+
+116
+00:10:58,327 --> 00:11:01,247
+<font face="Noto Sans SemBd" size=55>{\an20}[GABI] Wait. "You now possess
+the Founding Titan
+
+117
+00:11:01,327 --> 00:11:03,957
+<font face="Noto Sans SemBd" size=55>{\an20}as well as a Titan
+with royal blood."
+
+118
+00:11:04,917 --> 00:11:07,707
+<font face="Noto Sans SemBd" size=55>{\an20}[GABI] I heard Zeke say those
+exact words to the enemy
+
+119
+00:11:07,797 --> 00:11:09,797
+<font face="Noto Sans SemBd" size=55>{\an20}on the airship
+that attacked Marley!
+
+120
+00:11:09,877 --> 00:11:12,087
+<font face="Noto Sans SemBd" size=55>{\an20}But what does that mean?
+Royal blood?
+
+121
+00:11:12,167 --> 00:11:15,257
+<font face="Noto Sans SemBd" size=55>{\an20}Wait, he couldn't have been
+talking about himself, could he?
+
+122
+00:11:15,347 --> 00:11:18,217
+<font face="Noto Sans SemBd" size=55>{\an20}His parents were part of
+the Restorationist leadership.
+
+123
+00:11:18,307 --> 00:11:19,807
+<font face="Noto Sans SemBd" size=55>{\an20}It's possible.
+
+124
+00:11:19,887 --> 00:11:21,557
+<font face="Noto Sans SemBd" size=55>{\an20}[PIECK TITAN] He's always had
+powers above and beyond
+
+125
+00:11:21,637 --> 00:11:23,597
+<font face="Noto Sans SemBd" size=55>{\an20}what the Beast usually would.
+
+126
+00:11:23,687 --> 00:11:26,147
+<font face="Noto Sans SemBd" size=55>{\an20}This might be the explanation.
+
+127
+00:11:26,227 --> 00:11:28,277
+<font face="Noto Sans SemBd" size=55>{\an20}If it is, then Zeke's
+absence could be
+
+128
+00:11:28,357 --> 00:11:31,397
+<font face="Noto Sans SemBd" size=55>{\an20}what's keeping Eren from
+using the Founder's power.
+
+129
+00:11:31,487 --> 00:11:34,777
+<font face="Noto Sans SemBd" size=55>{\an20}We have to prevent the two
+of them from making contact.
+
+130
+00:11:36,407 --> 00:11:38,117
+<font face="Noto Sans SemBd" size=55>{\an20}Commander Magath. Reiner is―
+
+131
+00:11:38,197 --> 00:11:39,327
+<font face="Noto Sans SemBd" size=55>{\an20}[MAGATH]
+It's "General" now,
+
+132
+00:11:39,407 --> 00:11:41,947
+<font face="Noto Sans SemBd" size=55>{\an20}and Marley's shield
+won't break that easily.
+
+133
+00:11:42,037 --> 00:11:44,957
+<font face="Noto Sans SemBd" size=55>{\an20}No, it isn't just
+Marley anymore.
+
+134
+00:11:45,037 --> 00:11:46,747
+<font face="Noto Sans SemBd" size=55>{\an20}He's shielding the entire world.
+
+135
+00:11:46,827 --> 00:11:49,707
+<font face="Noto Sans SemBd" size=55>{\an20}We're humanity's final hope.
+
+136
+00:11:49,797 --> 00:11:51,717
+<font face="Noto Sans SemBd" size=55>{\an20}Killing the Founder
+won't solve this.
+
+137
+00:11:51,797 --> 00:11:54,217
+<font face="Noto Sans SemBd" size=55>{\an20}It'll just kick the can
+down the road.
+
+138
+00:11:54,297 --> 00:11:56,717
+<font face="Noto Sans SemBd" size=55>{\an20}So instead, we'll have
+a Warrior eat him,
+
+139
+00:11:56,797 --> 00:11:59,757
+<font face="Noto Sans SemBd" size=55>{\an20}and bring an end to
+two thousand years of hatred.
+
+140
+00:12:46,557 --> 00:12:48,517
+<font face="Noto Sans SemBd" size=55>{\an20}Now I'll make you pay.
+
+141
+00:12:50,147 --> 00:12:52,977
+<font face="Noto Sans SemBd" size=55>{\an20}[GALLIARD] For the way
+you trampled my home!
+
+142
+00:12:56,647 --> 00:13:01,907
+<font face="Noto Sans SemBd" size=55>{\an20}[REINER] Eren. You're no threat
+to us on your own.
+
+143
+00:13:01,987 --> 00:13:03,827
+<font face="Noto Sans SemBd" size=55>{\an20}This is the end for you.
+
+144
+00:13:03,907 --> 00:13:05,827
+<font face="Noto Sans SemBd" size=55>{\an20}So give up already!
+
+145
+00:13:22,347 --> 00:13:24,017
+<font face="Noto Sans SemBd" size=55>{\an20}[JAEGERIST 76F]
+Go! Finish them!
+
+146
+00:13:24,097 --> 00:13:25,637
+<font face="Noto Sans SemBd" size=55>{\an20}[JAEGERIST 76G]
+We brought their favorite snack.
+
+147
+00:13:25,727 --> 00:13:28,017
+<font face="Noto Sans SemBd" size=55>{\an20}Let's hit 'em with
+the Thunder Spears!
+
+148
+00:13:33,317 --> 00:13:35,067
+<font face="Noto Sans SemBd" size=55>{\an20}[SCOUTS gasp]
+
+149
+00:13:39,657 --> 00:13:40,407
+<font face="Noto Sans SemBd" size=55>{\an20}No.
+
+150
+00:13:40,487 --> 00:13:41,947
+<font face="Noto Sans SemBd" size=55>{\an20}The hell was that?
+
+151
+00:13:57,797 --> 00:13:59,587
+<font face="Noto Sans SemBd" size=55>{\an20}Load another round, soldier!
+
+152
+00:13:59,677 --> 00:14:01,347
+<font face="Noto Sans SemBd" size=55>{\an20}Yes, sir!
+
+153
+00:14:01,427 --> 00:14:03,047
+<font face="Noto Sans SemBd" size=55>{\an20}Blew his brains clean out.
+
+154
+00:14:03,137 --> 00:14:05,347
+<font face="Noto Sans SemBd" size=55>{\an20}We crippled the Attack Titan's
+motor control, sir!
+
+155
+00:14:05,427 --> 00:14:07,887
+<font face="Noto Sans SemBd" size=55>{\an20}Nice shot, Commander Magath.
+
+156
+00:14:07,977 --> 00:14:09,477
+<font face="Noto Sans SemBd" size=55>{\an20}[MAGATH]
+You mean, "General."
+
+157
+00:14:09,557 --> 00:14:10,847
+<font face="Noto Sans SemBd" size=55>{\an20}Much as I hate to say it,
+
+158
+00:14:10,937 --> 00:14:13,767
+<font face="Noto Sans SemBd" size=55>{\an20}that's just how far
+the Marleyan army's fallen.
+
+159
+00:14:13,857 --> 00:14:17,607
+<font face="Noto Sans SemBd" size=55>{\an20}Her top artilleryman is the only
+one left to steer the ship.
+
+160
+00:14:20,777 --> 00:14:23,367
+<font face="Noto Sans SemBd" size=55>{\an20}Dammit, the Armor and Jaw
+are gonna get away!
+
+161
+00:14:28,997 --> 00:14:30,247
+<font face="Noto Sans SemBd" size=55>{\an20}[JAEGERIST 76I]
+Contact!
+
+162
+00:14:30,327 --> 00:14:32,747
+<font face="Noto Sans SemBd" size=55>{\an20}[JAEGERIST 76J]
+Up on the roofs!
+
+163
+00:14:32,827 --> 00:14:35,167
+<font face="Noto Sans SemBd" size=55>{\an20}[JAEGERIST 76D]
+We're outnumbered!
+
+164
+00:14:35,247 --> 00:14:37,837
+<font face="Noto Sans SemBd" size=55>{\an20}[JAEGERIST 76E] It's fine,
+we're faster. Flank 'em!
+
+165
+00:14:43,177 --> 00:14:44,757
+<font face="Noto Sans SemBd" size=55>{\an20}[VOLUNTEER 76A]
+No way.
+
+166
+00:14:44,847 --> 00:14:48,477
+<font face="Noto Sans SemBd" size=55>{\an20}I thought the Marleyan officer
+corps was nearly wiped out.
+
+167
+00:14:48,557 --> 00:14:51,347
+<font face="Noto Sans SemBd" size=55>{\an20}How did they coordinate this
+attack in less than a month?
+
+168
+00:14:51,437 --> 00:14:52,597
+<font face="Noto Sans SemBd" size=55>{\an20}If this goes on...
+
+169
+00:14:52,687 --> 00:14:54,647
+<font face="Noto Sans SemBd" size=55>{\an20}They're gonna capture
+the Founder!
+
+170
+00:14:56,277 --> 00:14:59,277
+<font face="Noto Sans SemBd" size=55>{\an20}[YELENA]
+Eren. You're not like the rest.
+
+171
+00:14:59,357 --> 00:15:01,107
+<font face="Noto Sans SemBd" size=55>{\an20}You never were.
+
+172
+00:15:02,527 --> 00:15:04,947
+<font face="Noto Sans SemBd" size=55>{\an20}[YELENA]
+You're special.
+
+173
+00:15:08,367 --> 00:15:10,367
+<font face="Noto Sans SemBd" size=55>{\an20}[Roars]
+
+174
+00:15:20,257 --> 00:15:21,877
+<font face="Noto Sans SemBd" size=55>{\an20}[MAGATH]
+Let him wear himself out.
+
+175
+00:15:21,967 --> 00:15:23,587
+<font face="Noto Sans SemBd" size=55>{\an20}The War Hammer's powerful,
+
+176
+00:15:23,677 --> 00:15:26,757
+<font face="Noto Sans SemBd" size=55>{\an20}but its ability burns
+a great deal of energy.
+
+177
+00:15:29,097 --> 00:15:31,887
+<font face="Noto Sans SemBd" size=55>{\an20}[MAGATH] Don't forget.
+Willy Tybur sacrificed himself
+
+178
+00:15:31,977 --> 00:15:35,017
+<font face="Noto Sans SemBd" size=55>{\an20}to offer us a chance
+to launch this assault.
+
+179
+00:15:35,097 --> 00:15:37,857
+<font face="Noto Sans SemBd" size=55>{\an20}Remember the message
+he died to deliver.
+
+180
+00:15:37,937 --> 00:15:41,737
+<font face="Noto Sans SemBd" size=55>{\an20}At this point, the only hope for
+humanity is another Helos.
+
+181
+00:15:41,817 --> 00:15:45,197
+<font face="Noto Sans SemBd" size=55>{\an20}A hero to save our world.
+
+182
+00:15:46,777 --> 00:15:49,697
+<font face="Noto Sans SemBd" size=55>{\an20}[REINER]
+Come on, Eren. Give up.
+
+183
+00:16:01,507 --> 00:16:04,337
+<font face="Noto Sans SemBd" size=55>{\an20}[Roars]
+
+184
+00:16:04,427 --> 00:16:07,217
+<font face="Noto Sans SemBd" size=55>{\an20}You've lost this fight.
+
+185
+00:16:07,297 --> 00:16:09,927
+<font face="Noto Sans SemBd" size=55>{\an20}[Screaming]
+
+186
+00:16:10,017 --> 00:16:13,517
+<font face="Noto Sans SemBd" size=55>{\an20}[REINER] It's over,
+we've suffered enough.
+
+187
+00:16:14,807 --> 00:16:18,687
+<font face="Noto Sans SemBd" size=55>{\an20}We all have,
+and that includes you.
+
+188
+00:16:18,767 --> 00:16:25,697
+<font face="Noto Sans SemBd" size=55>{\an20}[ONYANKOPON panting]
+
+189
+00:16:25,777 --> 00:16:27,447
+<font face="Noto Sans SemBd" size=55>{\an20}[JEAN]
+Onyankopon?
+
+190
+00:16:27,527 --> 00:16:30,027
+<font face="Noto Sans SemBd" size=55>{\an20}Hey! What the hell's going on?
+
+191
+00:16:30,117 --> 00:16:31,697
+<font face="Noto Sans SemBd" size=55>{\an20}[ONYANKOPON] Marley launched
+an attack on the island
+
+192
+00:16:31,787 --> 00:16:33,247
+<font face="Noto Sans SemBd" size=55>{\an20}with their airship fleet.
+
+193
+00:16:33,327 --> 00:16:34,917
+<font face="Noto Sans SemBd" size=55>{\an20}They've got 500 soldiers,
+
+194
+00:16:34,997 --> 00:16:38,077
+<font face="Noto Sans SemBd" size=55>{\an20}plus the Armored,
+Jaw, and Cart Titans.
+
+195
+00:16:38,167 --> 00:16:40,837
+<font face="Noto Sans SemBd" size=55>{\an20}Eren's still out there
+fighting them on his own.
+
+196
+00:16:40,917 --> 00:16:42,627
+<font face="Noto Sans SemBd" size=55>{\an20}But he's struggling.
+
+197
+00:16:42,707 --> 00:16:44,677
+<font face="Noto Sans SemBd" size=55>{\an20}He's not gonna last long.
+
+198
+00:16:45,757 --> 00:16:47,757
+<font face="Noto Sans SemBd" size=55>{\an20}[ONYANKOPON] Marley is gonna
+take the Founder!
+
+199
+00:16:47,837 --> 00:16:49,347
+<font face="Noto Sans SemBd" size=55>{\an20}You have to help!
+
+200
+00:16:49,427 --> 00:16:52,677
+<font face="Noto Sans SemBd" size=55>{\an20}Join us. Protect Eren!
+
+201
+00:16:52,767 --> 00:16:55,137
+<font face="Noto Sans SemBd" size=55>{\an20}[CONNY]
+Are you shitting me?
+
+202
+00:16:55,227 --> 00:16:57,097
+<font face="Noto Sans SemBd" size=55>{\an20}We're not on the same side!
+
+203
+00:16:57,187 --> 00:16:58,597
+<font face="Noto Sans SemBd" size=55>{\an20}This is your battle!
+
+204
+00:16:58,687 --> 00:17:00,647
+<font face="Noto Sans SemBd" size=55>{\an20}You already betrayed us once.
+
+205
+00:17:00,727 --> 00:17:03,357
+<font face="Noto Sans SemBd" size=55>{\an20}Why the hell would we
+do as you say?
+
+206
+00:17:03,437 --> 00:17:05,237
+<font face="Noto Sans SemBd" size=55>{\an20}I'm sorry! I never wanted this,
+
+207
+00:17:05,317 --> 00:17:06,897
+<font face="Noto Sans SemBd" size=55>{\an20}but Yelena would've
+put a bullet in my head
+
+208
+00:17:06,987 --> 00:17:08,617
+<font face="Noto Sans SemBd" size=55>{\an20}if I hadn't gone along
+with her plan!
+
+209
+00:17:08,697 --> 00:17:12,077
+<font face="Noto Sans SemBd" size=55>{\an20}Huh? You think I wanna
+hear your excuses?
+
+210
+00:17:12,157 --> 00:17:13,367
+<font face="Noto Sans SemBd" size=55>{\an20}You've been acting
+like our friend
+
+211
+00:17:13,447 --> 00:17:16,287
+<font face="Noto Sans SemBd" size=55>{\an20}while you used that wine
+to take over Paradis!
+
+212
+00:17:16,367 --> 00:17:17,617
+<font face="Noto Sans SemBd" size=55>{\an20}I'm sick of it.
+
+213
+00:17:17,707 --> 00:17:20,127
+<font face="Noto Sans SemBd" size=55>{\an20}I'm so sick of getting betrayed!
+
+214
+00:17:20,207 --> 00:17:22,207
+<font face="Noto Sans SemBd" size=55>{\an20}Reiner. Bertholdt. Annie.
+
+215
+00:17:22,297 --> 00:17:23,207
+<font face="Noto Sans SemBd" size=55>{\an20}You.
+
+216
+00:17:23,297 --> 00:17:24,917
+<font face="Noto Sans SemBd" size=55>{\an20}Even Eren's betrayed us!
+
+217
+00:17:25,007 --> 00:17:26,507
+<font face="Noto Sans SemBd" size=55>{\an20}I can't stand it!
+
+218
+00:17:26,587 --> 00:17:29,217
+<font face="Noto Sans SemBd" size=55>{\an20}Why should we do
+a damn thing for him, huh?
+
+219
+00:17:29,297 --> 00:17:30,797
+<font face="Noto Sans SemBd" size=55>{\an20}Why should we
+save him just so he can
+
+220
+00:17:30,887 --> 00:17:34,097
+<font face="Noto Sans SemBd" size=55>{\an20}stop any of us from
+ever having kids? Well?
+
+221
+00:17:34,177 --> 00:17:35,267
+<font face="Noto Sans SemBd" size=55>{\an20}[ONYANKOPON]
+Wait.
+
+222
+00:17:37,727 --> 00:17:40,727
+<font face="Noto Sans SemBd" size=55>{\an20}I'd like to hear
+him out, at least. 'Kay?
+
+223
+00:17:42,107 --> 00:17:46,447
+<font face="Noto Sans SemBd" size=55>{\an20}[ONYANKOPON coughing]
+
+224
+00:17:49,987 --> 00:17:52,987
+<font face="Noto Sans SemBd" size=55>{\an20}I had no idea that Yelena
+was plotting any of this.
+
+225
+00:17:53,077 --> 00:17:55,537
+<font face="Noto Sans SemBd" size=55>{\an20}The tainted wine or
+the euthanization plan.
+
+226
+00:17:55,617 --> 00:17:57,367
+<font face="Noto Sans SemBd" size=55>{\an20}None of the Volunteers
+were told anything.
+
+227
+00:17:57,457 --> 00:17:58,327
+<font face="Noto Sans SemBd" size=55>{\an20}Huh?!
+
+228
+00:17:58,417 --> 00:17:59,917
+<font face="Noto Sans SemBd" size=55>{\an20}[NICOLO]
+He's telling the truth.
+
+229
+00:17:59,997 --> 00:18:03,087
+<font face="Noto Sans SemBd" size=55>{\an20}We never discussed the tainted
+wine with the Volunteers.
+
+230
+00:18:03,167 --> 00:18:06,377
+<font face="Noto Sans SemBd" size=55>{\an20}Yelena ordered us
+not to mention it to them.
+
+231
+00:18:06,457 --> 00:18:07,757
+<font face="Noto Sans SemBd" size=55>{\an20}[ONYANKOPON]
+What's more.
+
+232
+00:18:07,837 --> 00:18:10,757
+<font face="Noto Sans SemBd" size=55>{\an20}I don't want to see
+the Eldian people euthanized!
+
+233
+00:18:10,837 --> 00:18:13,847
+<font face="Noto Sans SemBd" size=55>{\an20}Our goal was to build a new
+Paradis alongside all of you.
+
+234
+00:18:13,927 --> 00:18:16,467
+<font face="Noto Sans SemBd" size=55>{\an20}To rise up and
+beat Marley together!
+
+235
+00:18:16,557 --> 00:18:19,727
+<font face="Noto Sans SemBd" size=55>{\an20}That's why we left everything
+behind to come here!
+
+236
+00:18:19,807 --> 00:18:23,437
+<font face="Noto Sans SemBd" size=55>{\an20}I gave up my whole life for
+the people of this island.
+
+237
+00:18:23,517 --> 00:18:24,477
+<font face="Noto Sans SemBd" size=55>{\an20}Because...
+
+238
+00:18:24,567 --> 00:18:25,687
+<font face="Noto Sans SemBd" size=55>{\an20}I thought together,
+we could create
+
+239
+00:18:25,777 --> 00:18:27,947
+<font face="Noto Sans SemBd" size=55>{\an20}a better future on Paradis.
+
+240
+00:18:28,027 --> 00:18:30,197
+<font face="Noto Sans SemBd" size=55>{\an20}But there is no future
+without children!
+
+241
+00:18:30,277 --> 00:18:32,617
+<font face="Noto Sans SemBd" size=55>{\an20}If this euthanization
+plan succeeds,
+
+242
+00:18:32,697 --> 00:18:34,487
+<font face="Noto Sans SemBd" size=55>{\an20}then everything
+we've sacrificed―
+
+243
+00:18:34,577 --> 00:18:36,447
+<font face="Noto Sans SemBd" size=55>{\an20}It'll all be for nothing!
+
+244
+00:18:40,667 --> 00:18:42,917
+<font face="Noto Sans SemBd" size=55>{\an20}You have to believe me.
+
+245
+00:18:46,547 --> 00:18:47,707
+<font face="Noto Sans SemBd" size=55>{\an20}He's telling the truth.
+
+246
+00:18:47,797 --> 00:18:49,217
+<font face="Noto Sans SemBd" size=55>{\an20}Armin?
+
+247
+00:18:49,297 --> 00:18:51,757
+<font face="Noto Sans SemBd" size=55>{\an20}Years ago, when you
+first came here,
+
+248
+00:18:51,837 --> 00:18:53,587
+<font face="Noto Sans SemBd" size=55>{\an20}you said something
+that stuck with me.
+
+249
+00:18:53,677 --> 00:18:57,177
+<font face="Noto Sans SemBd" size=55>{\an20}That we Subjects of Ymir
+exist because we're wanted.
+
+250
+00:18:57,257 --> 00:18:58,387
+<font face="Noto Sans SemBd" size=55>{\an20}That the world
+is more interesting
+
+251
+00:18:58,477 --> 00:19:00,597
+<font face="Noto Sans SemBd" size=55>{\an20}with different kinds of people.
+
+252
+00:19:00,687 --> 00:19:02,137
+<font face="Noto Sans SemBd" size=55>{\an20}I think you believe that.
+
+253
+00:19:02,227 --> 00:19:05,227
+<font face="Noto Sans SemBd" size=55>{\an20}And I think that belief goes
+against everything Zeke's doing.
+
+254
+00:19:05,317 --> 00:19:07,987
+<font face="Noto Sans SemBd" size=55>{\an20}You meant all the things
+you said, right?
+
+255
+00:19:08,067 --> 00:19:11,237
+<font face="Noto Sans SemBd" size=55>{\an20}Then get back on
+your feet. Onyankopon.
+
+256
+00:19:11,317 --> 00:19:12,697
+<font face="Noto Sans SemBd" size=55>{\an20}Thank you.
+
+257
+00:19:15,197 --> 00:19:17,617
+<font face="Noto Sans SemBd" size=55>{\an20}Well, for what it's worth,
+I believe you, too.
+
+258
+00:19:17,697 --> 00:19:19,117
+<font face="Noto Sans SemBd" size=55>{\an20}But now what?
+
+259
+00:19:19,197 --> 00:19:21,577
+<font face="Noto Sans SemBd" size=55>{\an20}If we help Eren and Zeke
+fight off the Marleyan army,
+
+260
+00:19:21,667 --> 00:19:22,827
+<font face="Noto Sans SemBd" size=55>{\an20}they'll just end up
+going through with
+
+261
+00:19:22,917 --> 00:19:25,127
+<font face="Noto Sans SemBd" size=55>{\an20}the euthanization plan, right?
+
+262
+00:19:25,207 --> 00:19:28,087
+<font face="Noto Sans SemBd" size=55>{\an20}Well. We'll at least have
+a chance to stop them.
+
+263
+00:19:28,957 --> 00:19:31,087
+<font face="Noto Sans SemBd" size=55>{\an20}Because if those two die,
+
+264
+00:19:31,167 --> 00:19:33,387
+<font face="Noto Sans SemBd" size=55>{\an20}the whole world is gonna
+come crashing down on us.
+
+265
+00:19:33,467 --> 00:19:35,507
+<font face="Noto Sans SemBd" size=55>{\an20}[CONNY] So what are you trying
+to say we should do, then?
+
+266
+00:19:35,597 --> 00:19:37,387
+<font face="Noto Sans SemBd" size=55>{\an20}If nothing else, we can
+activate the rumbling
+
+267
+00:19:37,467 --> 00:19:40,307
+<font face="Noto Sans SemBd" size=55>{\an20}and show the world that we're
+capable of punching back!
+
+268
+00:19:40,387 --> 00:19:43,267
+<font face="Noto Sans SemBd" size=55>{\an20}[CONNY] Huh? You wanna give 'em
+a taste of the rumbling?
+
+269
+00:19:43,347 --> 00:19:46,107
+<font face="Noto Sans SemBd" size=55>{\an20}Hey, Mikasa, what do you think?
+
+270
+00:19:46,187 --> 00:19:48,107
+<font face="Noto Sans SemBd" size=55>{\an20}Do you want to go help Eren?
+
+
+271
+00:19:53,737 --> 00:19:59,487
+<font face="Noto Sans SemBd" size=55>{\an20}I would say yes. Except, knowing what he told me,
+
+272
+00:19:59,577 --> 00:20:04,707
+<font face="Noto Sans SemBd" size=55>{\an20}I'm not sure if I want to or if
+my blood is telling me to.
+
+273
+00:20:06,077 --> 00:20:08,167
+<font face="Noto Sans SemBd" size=55>{\an20}[MIKASA]
+I'm an Ackerman.
+
+274
+00:20:08,247 --> 00:20:10,547
+<font face="Noto Sans SemBd" size=55>{\an20}My will's not my own.
+
+275
+00:20:10,627 --> 00:20:12,167
+<font face="Noto Sans SemBd" size=55>{\an20}Huh?
+
+276
+00:20:12,257 --> 00:20:13,797
+<font face="Noto Sans SemBd" size=55>{\an20}Look, Mikasa.
+
+277
+00:20:13,877 --> 00:20:16,797
+<font face="Noto Sans SemBd" size=55>{\an20}I think Eren made that up
+to mess with your head.
+
+278
+00:20:17,757 --> 00:20:19,467
+<font face="Noto Sans SemBd" size=55>{\an20}No, he was on to something.
+
+279
+00:20:19,557 --> 00:20:22,267
+<font face="Noto Sans SemBd" size=55>{\an20}He asked if I get
+headaches, and I do.
+
+280
+00:20:22,347 --> 00:20:24,437
+<font face="Noto Sans SemBd" size=55>{\an20}What makes you
+think he was lying?
+
+281
+00:20:24,517 --> 00:20:26,097
+<font face="Noto Sans SemBd" size=55>{\an20}What makes me think h―
+
+282
+00:20:26,187 --> 00:20:27,607
+<font face="Noto Sans SemBd" size=55>{\an20}Guys.
+
+283
+00:20:27,687 --> 00:20:29,397
+<font face="Noto Sans SemBd" size=55>{\an20}Do you actually
+believe Eren wants to
+
+284
+00:20:29,477 --> 00:20:31,817
+<font face="Noto Sans SemBd" size=55>{\an20}stop all Eldians
+from having children?
+
+285
+00:20:31,897 --> 00:20:34,607
+<font face="Noto Sans SemBd" size=55>{\an20}You honestly think
+he'd go along with that?
+
+286
+00:20:39,027 --> 00:20:41,367
+<font face="Noto Sans SemBd" size=55>{\an20}It doesn't really strike me
+as something Eren would want,
+
+287
+00:20:41,447 --> 00:20:43,747
+<font face="Noto Sans SemBd" size=55>{\an20}but I can't say that it's
+more than he's willing―
+
+288
+00:20:43,827 --> 00:20:45,077
+<font face="Noto Sans SemBd" size=55>{\an20}Well I can say it!
+
+289
+00:20:45,157 --> 00:20:46,457
+<font face="Noto Sans SemBd" size=55>{\an20}He would never do that!
+
+290
+00:20:46,537 --> 00:20:47,707
+<font face="Noto Sans SemBd" size=55>{\an20}You don't think so?
+
+291
+00:20:47,787 --> 00:20:49,537
+<font face="Noto Sans SemBd" size=55>{\an20}Did you think he'd work
+with Zeke and Yelena?
+
+292
+00:20:49,627 --> 00:20:51,917
+<font face="Noto Sans SemBd" size=55>{\an20}He's just pretending to!
+Don't you see?
+
+293
+00:20:51,997 --> 00:20:53,967
+<font face="Noto Sans SemBd" size=55>{\an20}Eren's the one with
+the Founding Titan's power,
+
+294
+00:20:54,047 --> 00:20:56,297
+<font face="Noto Sans SemBd" size=55>{\an20}so he doesn't
+need to fight Zeke!
+
+295
+00:20:56,387 --> 00:20:57,507
+<font face="Noto Sans SemBd" size=55>{\an20}Things were different
+when Yelena
+
+296
+00:20:57,587 --> 00:20:59,047
+<font face="Noto Sans SemBd" size=55>{\an20}first came to him with the plan.
+
+297
+00:20:59,137 --> 00:21:00,547
+<font face="Noto Sans SemBd" size=55>{\an20}There's no telling
+what she might have done
+
+298
+00:21:00,637 --> 00:21:02,427
+<font face="Noto Sans SemBd" size=55>{\an20}if he had refused to join her.
+
+299
+00:21:02,517 --> 00:21:04,807
+<font face="Noto Sans SemBd" size=55>{\an20}He didn't have
+any options back then!
+
+300
+00:21:04,887 --> 00:21:06,937
+<font face="Noto Sans SemBd" size=55>{\an20}But now, Eren has Yelena
+completely convinced
+
+301
+00:21:07,017 --> 00:21:08,767
+<font face="Noto Sans SemBd" size=55>{\an20}that he's on her side,
+and the Volunteers have
+
+302
+00:21:08,847 --> 00:21:11,277
+<font face="Noto Sans SemBd" size=55>{\an20}gotten him in contact with Zeke.
+
+303
+00:21:11,357 --> 00:21:12,647
+<font face="Noto Sans SemBd" size=55>{\an20}He's in control.
+
+304
+00:21:12,727 --> 00:21:15,527
+<font face="Noto Sans SemBd" size=55>{\an20}He can use the rumbling
+to protect the island!
+
+305
+00:21:15,607 --> 00:21:19,987
+<font face="Noto Sans SemBd" size=55>{\an20}Nobody will dare lay a hand on
+Paradis for the next 50 years!
+
+306
+00:21:34,457 --> 00:21:40,797
+<font face="Noto Sans SemBd" size=55>{\an20}[Screaming]
+
+307
+00:21:50,187 --> 00:21:56,777
+<font face="Noto Sans SemBd" size=55>{\an20}[EREN TITAN screaming]
+
+308
+00:22:01,947 --> 00:22:06,957
+<font face="Noto Sans SemBd" size=55>{\an20}[Screaming]
+
+309
+00:22:09,957 --> 00:22:14,957
+<font face="Noto Sans SemBd" size=55>{\an20}♪ Ending Song ♪
+
+310
+00:23:41,627 --> 00:23:44,797
+<font face="Noto Sans SemBd" size=55>{\an20}[NARRATOR] The earth trembles
+as the Titans clash.
+
+311
+00:23:44,887 --> 00:23:46,717
+<font face="Noto Sans SemBd" size=55>{\an20}While their fight rages above,
+
+312
+00:23:46,807 --> 00:23:48,887
+<font face="Noto Sans SemBd" size=55>{\an20}the people at their feet
+must take up arms
+
+313
+00:23:48,967 --> 00:23:52,177
+<font face="Noto Sans SemBd" size=55>{\an20}and charge into the fray,
+like it or not.
+
+314
+00:23:52,267 --> 00:23:54,937
+<font face="Noto Sans SemBd" size=55>{\an20}Next episode: "Sneak Attack."
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>
